@@ -8,7 +8,7 @@ gem 'rails-html-sanitizer', '~> 1.4.3'
 
 group :development do
   gem 'pry'
-  gem 'nokogiri', '1.6.8'
-  gem 'devise', '4.2.0'
+  gem 'nokogiri', '1.8.5'
+  gem 'devise', '4.7.1'
   gem 'activesupport', '~> 8.0'
 end
