@@ -4,6 +4,7 @@ gem 'rake'
 gem 'faraday', '~> 2.0'
 gem 'kwalify', '~> 0.1'
 gem 'rspec',   '~> 3.0'
+gem 'rails-html-sanitizer', '~> 1.0.3'
 
 group :development do
   gem 'pry'
